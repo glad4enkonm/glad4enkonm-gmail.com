@@ -4,6 +4,6 @@ gym-super-mario-bros==7.3.0
 nes-py==8.1.1
 numpy==1.18.2
 pyglet==1.5.2
-scipy==1.4.1
+scipy==1.10.0
 six==1.14.0
 tqdm==4.43.0
